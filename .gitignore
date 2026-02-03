@@ -1,4 +1,3 @@
 target/
 *.env
 application-local.properties
-target/classes/application.yml
