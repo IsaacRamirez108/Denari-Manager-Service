@@ -15,6 +15,7 @@ RESTful payment processing API with Modern Treasury ACH integration and automate
 
 ## 🏗️ Architecture
 
+```
 denari-backend/
 ├── src/main/java/com/denari/
 │   ├── controllers/      # REST endpoints
@@ -25,7 +26,8 @@ denari-backend/
 │   ├── config/           # Spring configuration
 │   └── webhooks/         # Modern Treasury webhooks
 └── src/main/resources/
-└── application.yml   # Configuration
+    └── application.yml   # Configuration
+```
 
 ## ✨ Key Features
 
